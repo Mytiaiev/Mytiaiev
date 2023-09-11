@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mytiaiev
 - 👀 I’m interested in Python, Django RESTful
-- 🌱 I’m currently learning MONGOdb, MySQL
+- 🌱 I’m currently learning PostgresDB
 - 💞️ I’m looking to collaborate on web application devalopment
 - 📫 How to reach me mytiaievyevhen@gmail.com tm: @mytiaiev
 
